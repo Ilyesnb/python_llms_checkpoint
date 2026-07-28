@@ -1,0 +1,9 @@
+# Environnement virtuel
+llm_env/
+#Cache python
+__pycache__/
+*.py[cod]
+#variables d'environnement
+.env
+#vsCode
+.vscode/
